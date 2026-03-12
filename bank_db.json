@@ -1,0 +1,44 @@
+{
+  "ABA7A0BD": {
+    "name": "Lawrence Valdez",
+    "balance": 1000.0,
+    "transactions": [
+      {
+        "id": "ee44abfc",
+        "type": "deposit",
+        "amount": 1000.0,
+        "description": "Deposit",
+        "balance_after": 1000.0,
+        "timestamp": "2026-03-12 15:59:25"
+      }
+    ]
+  },
+  "1605B259": {
+    "name": "James",
+    "balance": 2000.0,
+    "transactions": [
+      {
+        "id": "db635430",
+        "type": "deposit",
+        "amount": 2000.0,
+        "description": "Deposit",
+        "balance_after": 2000.0,
+        "timestamp": "2026-03-12 16:17:44"
+      }
+    ]
+  },
+  "E6103020": {
+    "name": "Gian Villacrusis",
+    "balance": 1000.0,
+    "transactions": [
+      {
+        "id": "59c2707e",
+        "type": "deposit",
+        "amount": 1000.0,
+        "description": "Deposit",
+        "balance_after": 1000.0,
+        "timestamp": "2026-03-12 18:40:38"
+      }
+    ]
+  }
+}
